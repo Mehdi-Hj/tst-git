@@ -13,4 +13,7 @@ class A:
         self.age = age
     def get_info():
         return self.name, self.age
+    
+def ln(lst):
+    return len(lst)
 
